@@ -1,0 +1,8 @@
+{
+  "name": "ThaboApp",
+  "app_id": "238fbd49",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
